@@ -8,24 +8,7 @@ I am a recent graduate with a Bachelor of Science in Information Technology, spe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Information Security (INFOSEC)                | <a href="https://google.com">Detection Lab</a>|
-| NIST RMF                                      | SOC Automation Lab|
-| NIST CSF                                      | SOC Automation Lab|
-| Incident Response Playbooks                   | SOC Automation Lab|
-| Ethics in Cybersecurity                       | SOC Automation Lab|
-| Historical Attacks                            | SOC Automation Lab|
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+| Internal Security Audit                       | <a href="https://github.com/coachlopezm/Internal-Security-Audit-for-Botium-Toys/tree/main">Internal Security Audit for Botium Toys </a>|
 
 ## Certifications
 <div>
@@ -35,3 +18,4 @@ I am a recent graduate with a Bachelor of Science in Information Technology, spe
 </div>
 
 ## Projects
+- <a href="https://github.com/coachlopezm/Internal-Security-Audit-for-Botium-Toys/tree/main">Internal Security Audit for Botium Toys </a>
