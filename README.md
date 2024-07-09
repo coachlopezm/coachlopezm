@@ -1,25 +1,19 @@
 # Hello, I'm Mark
 <a href="https://www.linkedin.com/in/mark-lopez-7a7818269/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I recently graduated with a Bachelor of Science in Information Technology. I have a strong passion for cybersecurity and am eager to apply my knowledge and skills in this dynamic field.
-
-
-## Objective
-
-My objective is to secure an entry-level position where I can contribute to the protection of organizational data and systems. I aim to leverage my technical skills and knowledge in cybersecurity principles to identify, mitigate, and prevent security threats. I am particularly interested in roles that offer opportunities for professional growth and development, and where I can collaborate with a team of skilled professionals to enhance security protocols and practices.
-
+## Professional Statement
+I am a recent graduate with a Bachelor of Science in Information Technology, specializing in cybersecurity, with a strong foundation in programming and software development. My hands-on experience during my internship at the Cybercrime Investigation and Coordinating Center (CICC) has equipped me with practical skills in system upgrades and security enhancements. I am passionate about identifying and mitigating security threats to protect sensitive information and ensure privacy. My strengths in communication, time management, and technical proficiency, along with my commitment to protecting organizations and individuals, align with my goal to contribute to robust security practices. I am excited to bring my skills and values to support the security goals of various organizations and help safeguard their data and systems.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Information Security (INFOSEC)                | <a href="https://google.com">Detection Lab</a>|
+| NIST RMF                                      | SOC Automation Lab|
+| NIST CSF                                      | SOC Automation Lab|
+| Incident Response Playbooks                   | SOC Automation Lab|
+| Ethics in Cybersecurity                       | SOC Automation Lab|
+| Historical Attacks                            | SOC Automation Lab|
 
 ## Tools
 
@@ -34,7 +28,6 @@ My objective is to secure an entry-level position where I can contribute to the 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-0056b3?&style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/foundations-cybersecurity" />
 <img src="https://img.shields.io/badge/-Play%20It%20Safe:%20Manage%20Security%20Risks-0056b3?&style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learn/manage-security-risks" />
@@ -42,5 +35,3 @@ My objective is to secure an entry-level position where I can contribute to the 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
