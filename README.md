@@ -18,6 +18,7 @@ I am a recent graduate with a Bachelor of Science in Information Technology, spe
 <img src="https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-0056b3?&style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/foundations-cybersecurity" />
 <img src="https://img.shields.io/badge/-Play%20It%20Safe:%20Manage%20Security%20Risks-0056b3?&style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learn/manage-security-risks" />
 <img src="https://img.shields.io/badge/-Connect%20and%20Protect:%20Networks%20and%20Network%20Security-0056b3?&style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learn/connect-protect-networks-security" />
+<img src="https://img.shields.io/badge/-Tools%20of%20the%20Trade:%20Linux%20and%20SQL-0056b3?&style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learn/linux-and-sql" />
 </div>
 
 ## Projects
