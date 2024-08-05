@@ -10,8 +10,8 @@ I am a recent graduate with a Bachelor of Science in Information Technology, spe
 |-----------------------------------------------|----------------------------|
 | Internal Security Audit                       | <a href="https://github.com/coachlopezm/Internal-Security-Audit-for-Botium-Toys/tree/main">Internal Security Audit for Botium Toys </a>|
 | Incident Report Analysis                      | <a href="https://github.com/coachlopezm/Incident-Report-Analysis-DDoS-Attack-Mitigation/tree/main">Incident Report Analysis DDoS Attack Mitigation </a>|
-| File Permissions in Linux                     | <a href="https://github.com/coachlopezm/File-Permissions-in-Linux">File Permissions in Linux </a>|
-| Apply Filters to SQL Queries                  | <a href="https://github.com/coachlopezm/Apply-Filters-to-SQL-Queries">Apply Filters to SQL Queries </a>|
+| Linux Commands                                | <a href="https://github.com/coachlopezm/File-Permissions-in-Linux">File Permissions in Linux </a>|
+| SQL Queries                                   | <a href="https://github.com/coachlopezm/Apply-Filters-to-SQL-Queries">Apply Filters to SQL Queries </a>|
 
 ## Certifications
 <div>
