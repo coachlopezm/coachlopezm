@@ -20,9 +20,3 @@ I am a recent graduate with a Bachelor of Science in Information Technology, spe
 <img src="https://img.shields.io/badge/-Connect%20and%20Protect:%20Networks%20and%20Network%20Security-0056b3?&style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learn/connect-protect-networks-security" />
 <img src="https://img.shields.io/badge/-Tools%20of%20the%20Trade:%20Linux%20and%20SQL-0056b3?&style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learn/linux-and-sql" />
 </div>
-
-## Projects
-- <a href="https://github.com/coachlopezm/Internal-Security-Audit-for-Botium-Toys/tree/main">Internal Security Audit for Botium Toys </a>
-- <a href="https://github.com/coachlopezm/Incident-Report-Analysis-DDoS-Attack-Mitigation/tree/main">Incident Report Analysis DDoS Attack Mitigation </a>
-- <a href="https://github.com/coachlopezm/File-Permissions-in-Linux">File Permissions in Linux </a>
-- <a href="https://github.com/coachlopezm/Apply-Filters-to-SQL-Queries">Apply Filters to SQL Queries </a>
